@@ -1,5 +1,4 @@
 LUTFI RESOLUSI
 - Konsisten untuk belajar Front-end development minimal sehari sekali
 - Mendokumentasikan setiap ilmu baru yang didapatkan dengan membuat ulang video tutorial di YouTube
-- Membuat vlog
 - dan lain=lain
